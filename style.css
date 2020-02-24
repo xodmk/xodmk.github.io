@@ -1,0 +1,67 @@
+/* // *===========================================================================* //
+//
+//  __::((style.css))::__
+//
+//  ___::((XODMK Programming Industries))::___
+//  ___::((XODMK:CGBW:BarutanBreaks:djoto:2020))::___
+//
+//
+//  https://xodmk.github.io/ - CSS
+//
+//  Author: eschei
+//  Created: 23 Feb 2020
+//
+// *===========================================================================* // */
+
+#banner {
+    background-color: #69b5ea;
+    color: #4f4e4e;
+    height: 156px;
+    text-align: center;
+}
+
+/*h1 {
+    margin: 0px;
+    line-height: 200px;
+}*/
+
+body {
+	margin: 23px;
+    background-color: #171111;
+}
+ 
+.bodyText {
+    color: #de2c41;
+}
+
+li {
+    padding: 10px;
+    display: inline;
+}
+ 
+#navBar {
+    text-align: center;
+}
+ 
+a {
+    text-decoration: none;
+    color: #96b4ff;
+}
+
+
+
+
+
+/*
+    {"seijin",    { "171111", "3d292f", "634457", "83638a", "9689c3", "96b4ff" }},
+    {"gorgulan",  { "4f4e4e", "726068", "897590", "8992c0", "69b5ea", "00d9ff" }},
+    {"subcon",    { "053d47", "00486d", "334c8c", "7f4292", "bd2976", "de2c41" }},
+    {"newwave",   { "1c6ced", "5d5cd8", "794bc2", "8a3aaa", "932791", "961179" }},
+    {"trilobyte", { "17160a", "333b0c", "4a6602", "569500", "51c800", "14ff18" }},
+    {"barong",    { "2e1111", "551418", "7f131b", "a90d1b", "d40415", "ff0004" }},
+    {"purpor",    { "5c163a", "882442", "b23942", "d6573a", "f07c29", "ffa600" }},
+    {"mollusk",   { "415559", "355468", "434d74", "65406e", "822e53", "8a2828" }},
+    {"tiamat",    { "242c2e", "2e4c53", "356e7a", "3791a4", "32b7d1", "21deff" }},
+    {"sebek",     { "171111", "3e1421", "610e42", "791173", "772eb4", "0856ff" }},
+    {"worm",      { "7da2ab", "648eaf", "6d74a9", "89538d", "982c58", "8a1616" }},
+*/
