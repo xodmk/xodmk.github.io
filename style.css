@@ -26,12 +26,14 @@
 }*/
 
 body {
-	margin: 23px;
+	margin: 0px;
     background-color: #171111;
 }
  
 .bodyText {
     color: #de2c41;
+    padding-left: 46px;
+    padding-right: 46px;
 }
 
 li {
