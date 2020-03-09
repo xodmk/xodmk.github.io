@@ -63,7 +63,7 @@ proj div {
   /*max-width: 200px;*/
   width: 200px;
   height: 76px;
-  margin: 5px;
+  margin: 0px;
 }
 
 .proj-flex {
@@ -74,7 +74,7 @@ proj div {
 
 .projHeadText {
   margin: 0px;
-  font-size: 150%;
+  font-size: 130%;
   color: #21deff;
   text-align: left;
 }
