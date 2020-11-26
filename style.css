@@ -135,7 +135,11 @@ links div {
 
 
 #main {
-  text-align: center;
+  color: #de2c41;
+  margin: 0px;
+  font-size: 100%;
+  padding-left: 16px;
+  text-align: left;
 }
 
 
